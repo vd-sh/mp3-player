@@ -10,4 +10,8 @@ and adding features as I learn.
 
 ## Progress
 
-Just getting started — will update as I build.
+Getting started — Will update as I build.
+1] Did research on hardware and components
+2] Started coding for the esp32
+3] Designing the enclosure
+4] Drafting BOM.csv
