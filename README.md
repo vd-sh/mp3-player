@@ -22,7 +22,7 @@ Getting started — Will update as I build
 
 5] Sought some best components for their appropriate function
 
-6] Drafted bom.csv and added it to the project repo. (here!)
+6] Drafted [bom.csv](bom.csv) and added it to the project repo. (here!)
 
 7] Designing the graphics for the player
 
