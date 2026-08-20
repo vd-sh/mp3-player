@@ -21,4 +21,4 @@ Getting started — Will update as I build
 8] Debugged the code written until now
 
 ## Note
--I will be adding all the files like code, 2-layer PCB draft, enclosure .step: step by step as I complete, organize, and progress in the project. Stay tuned :)
+I will be adding all the files like code, 2-layer PCB draft, enclosure .step: step by step as I complete, organize, and progress in the project. Stay tuned :)
