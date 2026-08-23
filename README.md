@@ -1,16 +1,15 @@
 # mp3-player
-Making a classic handheld MP3 player for Macondo (YSWS program by Hack Club) — building it to get more hands-on hardware experience.
+Making a classic handheld MP3 player for Macondo (YSWS program by Hack Club) - building it to get more hands-on hardware experience.
 
 
 ## About
 
-Hi, I'm Vedant. This is my third project with Hack Club, built for Macondo. 
-I'm designing and building a portable MP3 player from scratch, starting simple 
-and adding features as I learn. Thankyou!
+Hi, I'm Vedant. This is my 3rd project under Hack Club, built for Macondo. 
+I'm designing and building a portable MP3 player from scratch, starting simple and adding features as I learn. Thankyou!
 
 ## Progress
 
-Getting started — Will update as I build
+Getting started — Will update as I build :)
 
 1] Did research on hardware and components
 
@@ -30,4 +29,4 @@ Getting started — Will update as I build
 
 ## Note
 - I will be adding all the files like code, 2-layer PCB draft, enclosure .step: step by step as I complete, organize, and progress in the project. Stay tuned!
-- Until then, y'all will love to see my completed projects [BakeBuild- Cookie Cutters](https://github.com/vd-sh/cookie-cutters) and [FuseRing- Key Rings](https://github.com/vd-sh/key-rings) :)
+- Until then, y'all will love to see my completed projects [BakeBuild- Cookie Cutters](https://github.com/vd-sh/cookie-cutters), [FuseRing- Key Rings](https://github.com/vd-sh/key-rings) & [Macondo- Retropuzz Game](https://github.com/vd-sh/retropuzz) :)
