@@ -30,4 +30,4 @@ Getting started — Will update as I build :)
 ## Note
 - I will be adding all the files like code, 2-layer PCB draft, enclosure .step: step by step as I complete, organize, and progress in the project. Stay tuned!
 - Until then, y'all will love to see my completed projects [BakeBuild- Cookie Cutters](https://github.com/vd-sh/cookie-cutters), [FuseRing- Key Rings](https://github.com/vd-sh/key-rings) & [Macondo- Retropuzz Game](https://github.com/vd-sh/retropuzz) :)
-- Simultaneously, you can visit my [profile!](https://github.com/vd-sh)
+- Simultaneously, you can visit my [profile](https://github.com/vd-sh) to see all of my repositories/projects!
