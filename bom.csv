@@ -15,7 +15,7 @@
 14,Resistor (1kΩ),1 Pack,1kΩ through-hole 1/4W,2,2.0,amazon.in
 15,Resistor (2kΩ),1 Pack,2kΩ through-hole 1/4W,2,2.0,amazon.in
 16,Resistor (220Ω),1 Pack,220Ω through-hole 1/4W (for LEDs),2,2.0,amazon.in
-17,Li-Po Battery,2,800 mAH slim,6,12.0,sharvielectronics.com
+17,Li-Po Battery,2,4000 mAH slim,6,12.0,sharvielectronics.com
 18,JST-PH 2-Pin Battery Connector,1 Pack,JST-PH 2-pin 2mm connector (male+female),2,2.0,amazon.in
 19,IP2312 Charging Module,1 Pack,IP2312 Type C,3.5,3.5,amazon.in
 20,USB-C Breakout Board,1 Pack,USB-C PD board,1,1.0,amazon.in
@@ -24,7 +24,7 @@
 23,Cap for tactile switches,24 (Moq 12/type),for 6x6 mm switches,~0.04,1.0,sharvielectronics.com
 24,LED Light,1 Pack,5mm,2,2.0,amazon.in
 25,SanDisk 32GB microSD,1,UHS-1 Card,18,18.0,amazon.in
-26,3.5mm Low-Impedance Audio Driver Unit,1,DAC check aux,21,21.0,headphonezone.in
+26,3.5mm Low-Impedance Audio Driver Unit,1,DAC test aux iem,25,25.0,headphonezone.in
 27,Custom 2-Layer PCB,5 (Moq 5),2-layer custom design (5 is MOQ),3,15.0,lioncircuits.com
 28,3D Print for Enclosure,1,Custom design (.step),15,15.0,robu.in
 29,Knob for KY-040,2 Pack (Moq 2),6mm rotary shaft knob (2 is MOQ),1,2.0,amazon.in
@@ -39,5 +39,5 @@
 38,Solder Wire,2,60/40 tin lead,1,2.0,amazon.in
 39,3.3v Regulator HT7533 IC,1 Pack,100MA LDO TO-92 HT 7533 IC 3.3 v,3,3.0,amazon.in
 40,Ceramic Capacitor,1 Pack,1uf 50v code 105,2,2.0,amazon.in
-,Shipping Handling and GST,,Combined estimated shipping,,10.0,Multiple
-,Total Amount,,,,195,
+,Shipping Handling and GST,,Combined estimated shipping,,16.0,Multiple
+,Total Amount,,,,205,
