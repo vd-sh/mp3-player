@@ -1,10 +1,10 @@
 # mp3-player
-Making a classic handheld MP3 player for Macondo (YSWS program by Hack Club) - building it to get more hands-on hardware experience.
+Making a classic handheld MP3 player for Macondo (YSWS program by Hack Club) - building to get more hands-on experience.
 
 
 ## About
 
-Hi, I'm Vedant. This is my 3rd project under Hack Club, built for Macondo. 
+Hi, I'm Vedant. This is my 3rd project under Hack Club.
 I'm designing and building a portable MP3 player from scratch, starting simple and adding features as I learn. Thankyou!
 
 ## Progress
