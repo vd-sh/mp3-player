@@ -1,5 +1,5 @@
 # mp3-player
-Making a classic handheld MP3 player for Macondo (YSWS program by Hack Club) - building to get more hands-on experience.
+Making a classic handheld MP3 player for Stardance (YSWS program by Hack Club) - building to get more hands-on experience.
 
 
 ## About
@@ -13,9 +13,9 @@ Getting started — Will update as I build :)
 
 1] Did research on hardware and components
 
-2] Started coding for the esp32
+2] Started coding for the ESP32
 
-3] Designing the ui
+3] Designing the UI
 
 4] Drafting BOM.csv
 
