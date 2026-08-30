@@ -1,11 +1,10 @@
 # mp3-player
-Making a classic handheld MP3 player for Stardance (YSWS program by Hack Club) - building to get more hands-on experience.
-
+Making a classic handheld MP3 player for Stardance (YSWS program by Hack Club). With components like ESP32 WROOM, DAC, IEMs, etc to deliver a crisp, peak level 320kbps audio quality.
 
 ## About
 
-Hi, I'm Vedant. This is my 3rd project under Hack Club.
-I'm designing and building a portable MP3 player from scratch, starting simple and adding features as I learn. Thankyou!
+- Hi, I'm Vedant. This is my 3rd project with [Hack Club!](https://github.com/hackclub).
+- I'm designing and building a portable MP3 player from scratch, starting simple and adding features as I learn.
 
 ## Progress
 
@@ -28,6 +27,6 @@ Getting started — Will update as I build :)
 8] Debugged the code written until now
 
 ## Note
-- I will be adding all the files like code, 2-layer PCB draft, enclosure .step: step by step as I complete, organize, and progress in the project. Stay tuned!
+- I will be adding all the files like code, PCB draft, enclosure- .step: step by step as I complete, organize, and progress in the project. Stay tuned!
 - Until then, y'all will love to see my completed projects [BakeBuild- Cookie Cutters](https://github.com/vd-sh/cookie-cutters), [FuseRing- Key Rings](https://github.com/vd-sh/key-rings) & [Macondo- Retropuzz Game](https://github.com/vd-sh/retropuzz) :)
 - Simultaneously, you can visit my [profile](https://github.com/vd-sh) to see all of my repositories/projects!
