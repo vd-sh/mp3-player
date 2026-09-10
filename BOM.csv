@@ -1,4 +1,4 @@
-Component,Quantity,Part Number / Description,Unit Price (USD),Total Price (USD),Supplier
+Component,Quantity,Description,Unit Price (USD),Total Price (USD),Supplier
 ESP32-WROOM-32E,1,ESP32-WROOM-32E,10,10.0,robu.in
 PCM5102 I2S DAC Module,1,PCM5102 I2S DAC,20,20.0,amazon.in
 Lithium battery protection,1,Flyrobo 3.7v,3,3.0,amazon.in
@@ -25,7 +25,7 @@ Cap for tactile switches,24 (Moq 12/type),for 6x6 mm switches,~0.04,1.0,sharviel
 LED Light,1 Pack,5mm,2,2.0,amazon.in
 SanDisk 32GB microSD,1,UHS-1 Card,18,18.0,amazon.in
 3.5mm Low-Impedance Audio Driver Unit,1,DAC test aux iem,25,25.0,headphonezone.in
-Custom 2-Layer PCB,5 (Moq 5),2-layer custom design (5 is MOQ),3,15.0,lioncircuits.com
+Perfboard,2,FR2- A Grade 12x18 cm,3,6,amazon.in
 3D Print for Enclosure,1,Custom design (.step),15,15.0,robu.in
 Knob for KY-040,2 Pack (Moq 2),6mm rotary shaft knob (2 is MOQ),1,2.0,amazon.in
 KY009-5050,1,Common Cathode sys,1,1.0,amazon.in
@@ -40,5 +40,9 @@ Solder Wire,2,60/40 tin lead,1,2.0,amazon.in
 3.3v Regulator HT7533 IC,1 Pack,100MA LDO TO-92 HT 7533 IC 3.3 v,3,3.0,amazon.in
 Ceramic Capacitor,1 Pack,1uf 50v code 105,2,2.0,amazon.in
 Metal Clip,2,Clip to oraganize and firm wires,3,6,amazon.in
+Single core solid hook up wire,2,22awg,2,4,amazon.in
+Heat shrink tubing,1,Polyolefin,2,2,amazon.in
+Pencil sharpener,1 Pack,,1,1,amazon.in
+Enameled copper wire,1,36 Gauge,3,3,amazon.in
 Shipping Handling and GST,,,,16.0,Multiple
-Total Amount,,,,211,
+Total Amount,,,,209,
