@@ -22,9 +22,7 @@ Getting started — Will update as I build :)
 
 6] Drafted [BOM.csv](BOM.csv) and added it to the project repo. (here!)
 
-7] Designing the graphics for the player
-
-8] Debugged the code written so far
+7] Did wiring of the comoponents and uploaded [wiring.png](wiring.png) and [wiring.svg](wiring.svg)
 
 ## Note
 - I will be adding all the files like code, PCB draft, enclosure (.step), step by step as I complete, organize, and progress in the project. Stay tuned!
