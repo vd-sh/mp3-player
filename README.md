@@ -22,7 +22,7 @@ Getting started — Will update as I build :)
 
 6] Drafted [BOM.csv](BOM.csv) and added it to the project repo. (here!)
 
-7] Did the wiring of the components and uploaded [wiring.png](wiring.png) and [wiring.svg](wiring.svg)
+7] Did the wiring of the components and uploaded [wiring.png](Wiring%20%26%20Connection/wiring.png) and [wiring.svg](Wiring%20%26%20Connection/wiring.svg)
 
 ## Note
 - I will be adding all the files step by step as I complete, organize, and progress in the project. Stay tuned!
