@@ -22,7 +22,11 @@ Getting started — Will update as I build :)
 
 6] Drafted [BOM.csv](BOM.csv) and added it to the project repo. (here!)
 
-7] Did the wiring of the components and uploaded [wiring.png](Wiring%20%26%20Connection/wiring.png) and [wiring.svg](Wiring%20%26%20Connection/wiring.svg)
+7] Did the wiring of the components and uploaded [wiring.png](hardware/wiring.png) and [wiring.svg](hardware/wiring.svg)
+
+8] Started the coding logic and updated the wiring diagram accordingly
+
+9] For the enclosure, plan is to make it with transparent acrylic sheets i.e. cast as you build
 
 ## Note
 - I will be adding all the files step by step as I complete, organize, and progress in the project. Stay tuned!
