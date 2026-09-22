@@ -24,6 +24,8 @@ Getting started — Will update as I build :)
 
 7] Did the wiring of the components and uploaded [wiring.png](Hardware/wiring.png) and [wiring.svg](Hardware/wiring.svg)
 
+![wiring.png](Hardware/wiring.png)
+
 8] Started the coding logic and updated the wiring diagram accordingly
 
 9] For the enclosure, the plan is to make it with transparent acrylic sheets, i.e., cast as we build
