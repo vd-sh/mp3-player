@@ -40,5 +40,5 @@ Getting started — Will update as I build :)
 ## Note
 - I will be adding all the files step by step as I complete, organize, and progress in the project. Stay tuned!
 - I will also refine the README with concise info and easy steps to build once I complete the build.
-- Until then, y'all will love to see my completed projects [BakeBuild- Cookie Cutters](https://github.com/vd-sh/cookie-cutters), [FuseRing- Key Rings](https://github.com/vd-sh/key-rings),[Forge- NFC Card](https://github.com/vd-sh/nfc-card) & [Macondo- Retropuzz Game](https://github.com/vd-sh/retropuzz) :)
+- Until then, y'all will love to see my completed projects [BakeBuild- Cookie Cutters](https://github.com/vd-sh/cookie-cutters), [FuseRing- Key Rings](https://github.com/vd-sh/key-rings), [Forge- NFC Card](https://github.com/vd-sh/nfc-card) & [Macondo- Retropuzz Game](https://github.com/vd-sh/retropuzz) :)
 - Simultaneously, you can visit my [profile](https://github.com/vd-sh) to see all of my repositories/projects!
