@@ -1,7 +1,7 @@
 Component,Quantity,Description,Price (USD),Supplier
 ESP32-WROOM-32E,1,ESP32-WROOM-32E,10,robu.in
 PCM5102 I2S DAC Module,1,PCM5102 I2S DAC,20,amazon.in
-ESC,1,F405 45 amps,105,amazon.in
+Stack,1,STM32F405,105,amazon.in
 Lithium battery protection,1,Flyrobo 3.7v,3,amazon.in
 TFT IPS ST7789 Display Module,1,1.69in,5,robu.in
 DT830D,1,ac/dc v and ohm,2,amazon.in
@@ -34,7 +34,7 @@ Neodymium Magnets,1 Pack,Small circular,4,amazon.in
 Hot Glue Gun,1,7mm,5,amazon.in
 1N4007 Diode,1 Pack,1a 1000v Inverse Voltage Rectifier Diodes,1.5,amazon.in
 Headers & Pins,1 Pack,2.54mm male/female headers,1,amazon.in
-Audio Driver Unit,1,40mm oeh driver,27,amazon.in
+ADU,1,40mm 32ohm low impedance,27,amazon.in
 Jumper Wires,1 Pack,(M-M M-F F-F),1,amazon.in
 Serplex Jumper Wire Kit,1,Varied Length,5,amazon.in
 Soldering Kit,1,desolder flux,3,amazon.in
@@ -56,6 +56,6 @@ Scoring Cutter,1,For acrylic sheet enclosure,1,amazon.in
 Drill bits,1,For acrylic sheet enclosure,2,amazon.in
 Ring,1,For acrylic sheet enclosure,3,amazon.in
 Breadboard,1,,2,amazon.in
-Type C charger,1,20W,4.5,amazon.in
+USB C,1,20W,4.5,amazon.in
 Shipping Handling and GST,,,16,Multiple
 Total Amount,,,360,

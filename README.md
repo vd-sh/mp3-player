@@ -18,11 +18,11 @@ Getting started — Will update as I build :)
 
 4] Drafted BOM.csv
 
-5] Sought some of the best components for their appropriate function
+5] Sought some of the perfect components for their appropriate function
 
 6] Drafted [BOM.csv](BOM.csv) and added it to the project repo. (here!)
 
-7] Did the wiring of the components and uploaded [wiring.png](Hardware/wiring.png) and [wiring.svg](Hardware/wiring.svg)
+7] Drew the wiring diagram of the components and uploaded [wiring.png](Hardware/wiring.png) and [wiring.svg](Hardware/wiring.svg) to the repository
 
 ![wiring.png](Hardware/wiring.png)
 
@@ -30,15 +30,19 @@ Getting started — Will update as I build :)
 
 9] For the enclosure, the plan is to make it with transparent acrylic sheets, i.e., cast as we build
 
-10] Add all the code to the repo. (Not debugged yet; will do it while I build with appropriate observation)
+10] Added all the code to the repository [here](Firmware/MP3Player/). (Not debugged yet; will do it while I build with appropriate observation)
 
-11] Design complete; will shift to build once I get the materials shipped.
+11] Added a [README.md](Firmware/README.md) in the [Firmware](Firmware/) directory so as to guide for setting up the firmware and libraries for the MP3 Player
+
+12] Added [wiring.excalidraw](Hardware/wiring.excalidraw) so that maker can be independent to make changes in the wiring accordingly. (Just head to https://excalidraw.com and open the downloaded [wiring.excalidraw](Hardware/wiring.excalidraw))
+
+13] Design complete; will shift to build once I get the materials shipped.
 
 ## LICENSE
 [MIT](LICENSE) - Use, modify, share as you need to.
 
 ## Note
 - I will be adding all the files step by step as I complete, organize, and progress in the project. Stay tuned!
-- I will also refine the README with concise info and easy steps to build once I complete the build.
+- I will also refine this README with concise info and easy steps to BUILD once I complete the build. (Just like [README.md](Firmware/README.md) for the firmware)
 - Until then, y'all will love to see my completed projects [BakeBuild- Cookie Cutters](https://github.com/vd-sh/cookie-cutters), [FuseRing- Key Rings](https://github.com/vd-sh/key-rings), [Forge- NFC Card](https://github.com/vd-sh/nfc-card) & [Macondo- Retropuzz Game](https://github.com/vd-sh/retropuzz) :)
-- Simultaneously, you can visit my [profile](https://github.com/vd-sh) to see all of my repositories/projects!
+- You can also visit my [profile](https://github.com/vd-sh) to see all of my latest repositories/projects!
