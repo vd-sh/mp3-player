@@ -1,7 +1,6 @@
 Component,Quantity,Description,Price (USD),Supplier
 ESP32-WROOM-32E,1,ESP32-WROOM-32E,10,robu.in
 PCM5102 I2S DAC Module,1,PCM5102 I2S DAC,20,amazon.in
-Stack,1,STM32F405,105,amazon.in
 Lithium battery protection,1,Flyrobo 3.7v,3,amazon.in
 TFT IPS ST7789 Display Module,1,1.69in,5,robu.in
 DT830D,1,ac/dc v and ohm,2,amazon.in
@@ -49,7 +48,6 @@ Pencil sharpener,1 Pack,(Required for the small screws it has) (No where availab
 Zip tie,1 Pack,,3,amazon.in
 Super glue,1,For acrylic sheets,1.5,amazon.in
 Enameled copper wire,1,36 Gauge,3,amazon.in
-Glow in dark tape,1,,2,amazon.in
 Protection tape,1,,2.5,amazon.in
 Epoxy Resin,1,For acrylic sheet enclosure,2,amazon.in
 Scoring Cutter,1,For acrylic sheet enclosure,1,amazon.in
@@ -58,4 +56,4 @@ Ring,1,For acrylic sheet enclosure,3,amazon.in
 Breadboard,1,,2,amazon.in
 USB C,1,20W,4.5,amazon.in
 Shipping Handling and GST,,,16,Multiple
-Total Amount,,,360,
+Total Amount,,,253,
