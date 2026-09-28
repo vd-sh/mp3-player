@@ -12,7 +12,7 @@ Getting started — Will update as I build :)
 
 1] Did research on hardware and components
 
-2] Started coding for the ESP32 and functions of other components
+2] Started learning about the ESP32 and the functions of other components
 
 3] Designed the UI
 
@@ -32,11 +32,13 @@ Getting started — Will update as I build :)
 
 10] Added all the code to the repository [here](Firmware/MP3Player/). (Not debugged yet; will do it while I build with appropriate observation)
 
-11] Added a [README.md](Firmware/README.md) in the [Firmware](Firmware/) directory so as to guide for setting up the firmware and libraries for the MP3 Player
+11] Added a [README.md](Firmware/README.md) in the [Firmware](Firmware/) directory so as to guide setting up the firmware and libraries for the MP3 Player
 
-12] Added [wiring.excalidraw](Hardware/wiring.excalidraw) so that maker can be independent to make changes in the wiring accordingly. (Just head to https://excalidraw.com and open the downloaded [wiring.excalidraw](Hardware/wiring.excalidraw))
+12] Added [wiring.excalidraw](Hardware/wiring.excalidraw) so that the maker can be independent in making changes to the wiring accordingly. (Just head to https://excalidraw.com and open the downloaded [wiring.excalidraw](Hardware/wiring.excalidraw))
 
 13] Design complete; will shift to build once I get the materials shipped.
+
+14] The project got returned in Stardance by Hack Club because it was a requirement to have a custom PCB and custom enclosure, which I didn't know, so I will be making a custom PCB and Enclosure as guided by the reviewer.
 
 ## LICENSE
 [MIT](LICENSE) - Use, modify, share as you need to.
